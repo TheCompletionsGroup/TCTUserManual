@@ -14,6 +14,6 @@
 ![Menu > Scoping > Sub Systems](images\MSubSystem.PNG)  
 1. Click **Create Sub System**.  
 ![Create Sub System](images\CreateSubSystem.png)
-1. Enter a **Name**, **Number**, and select a **Parent System**.
+1. Enter a **Name**, **Number**, and select a **Parent System**.  
 ![Create Sub System Form](images\CreatesubSystemDetail.png) 
 1. Click **Create**.
