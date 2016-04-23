@@ -2,4 +2,5 @@ SettingUpAProjectLogo.md
 Systems.md
 CheckSheetTemplate.md
 CreateTag.md
+ScopeTag.md
 DocFields.md
