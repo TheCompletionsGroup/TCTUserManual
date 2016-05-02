@@ -12,7 +12,7 @@
     * To deselect all tags, click **Deselect All** .  
 1. Drag a selected tag from the Tag list on the right, and drop them onto the appropriate sub system on the left.  
 This action will affect all selected tags.  
-![Drag and drop tag(s) onto system or sub system](images\tagscopechange.png) 
+![Drag and drop tag(s) onto system or sub system](images\tagscopechange1.png) 
 A Scoping Results dialog box confirms the change.  
 ![Scoping Change Confirmation](images\scopingresults.png)
 1. Click **OK**.
