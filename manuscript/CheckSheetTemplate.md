@@ -1,5 +1,5 @@
 {#CreateChecksheetTemplate}
-#How to Create a Check Sheet Template
+#Create a Check Sheet Template
 1. Create the template in MS Word.  
     **Note:** Only **.docx** files can be used as check sheet templates  
     For more information about templates and other documents, refer to [*Document Fields*](#Documents).

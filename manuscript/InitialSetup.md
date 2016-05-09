@@ -1,5 +1,9 @@
+{#InitialSetup}
+#Initial Setup 
+The following options are typically a one-time setup at the start of a project.
+
 {#SetupLogo}
-#Setting up a Project Logo 
+#Set up a Project Logo 
 
 Project logos appear on the various reports in The Completions Tool. You may add or upate the project logo at any time. 
 

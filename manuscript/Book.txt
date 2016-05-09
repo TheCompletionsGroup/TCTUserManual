@@ -1,5 +1,5 @@
 Intro.md
-SettingUpAProjectLogo.md
+InitialSetup.md
 Systems.md
 CheckSheetTemplate.md
 CreateTag.md

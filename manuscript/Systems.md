@@ -1,5 +1,5 @@
 {#AddSystem}
-#How to Add a System 
+#Add a System 
 
 1. From the **Project Dashboard** Menu, click **Menu > Scoping > Systems**  
 ![Menu > Scoping > Systems](images\MSystem.PNG)  
@@ -9,7 +9,7 @@
 ![Create System Form](images\CreateSystemDetail.png) 
 1. Click **Create**.
 
-#How to Add a Sub System 
+#Add a Sub System 
 
 1. From the **Project Dashboard** Menu, click **Menu > Scoping > Sub Systems**  
 ![Menu > Scoping > Sub Systems](images\MSubSystem.PNG)  
