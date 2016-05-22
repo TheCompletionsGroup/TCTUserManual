@@ -6,22 +6,22 @@ Skyline is a tool that shows the progress of systems on a timeline, showing each
 
 1. Find **System Skyline** on the Reports page and click **View**.  
 ![Reports > Skyline](images\Reports-Skyline.PNG)   
-The initial view of skyline shows the entire project. Depending on the size of the project, this may initially show very small text. 
-![Skyline initial view](images\Skylineall.PNG)
+The initial view shows the entire project. Depending on the size of the project, the text size may initially be very small. 
+![Skyline initial view](images\Skylineall.PNG)  
 For a closer view: 
     - Zoom in and out by scrolling with the mouse
-    - Move to different parts of the skyline by clicking and dragging with the mouse 
+    - Move to different parts of the skyline by clicking anywhere on the page and dragging with the mouse 
  Each box has the following information:
     - System identifier (underlined)  
     - Number of tags completed / Total tags
     - Number of check sheets completed / Total check sheets
-    - Number of deficiencies (punches) resolved / Total deficiencies (punches) reported
-    ![Skyline top level example](images\Skylinetoplevel.PNG)  
-1. For details about a system, click on the underlined system identifer to view its progress.  
-![Skyline system progress](images\Skyline-subsystemProgress.PNG)
-This page will open in a new tab.  
+    - Number of deficiencies (punches) resolved / Total deficiencies (punches) reported  
+    ![Skyline top level example](images\Skylinetoplevel.PNG)       
+1. To view system details, click on the underlined system identifer to view its progress. This page will open in a new tab.   
+![Skyline system progress](images\Skyline-subsystemProgress.PNG)  
+ 
 1. Click the **Details** link to view the system progress by tag.  
 ![Skyline system tag progress](images\Skyline-subsystemtagProgress.PNG)  
     - Click the **View by check sheet** link to change the view accordingly. 
-1. If viewing by tag, click **Details** to view and edit the details of any tag.  
-    1. If viewing by check sheet: click **View** or **Delete**
+1. If viewing by **Tag**, click **Details** to view and edit the details of any tag.  
+If viewing by **Check Sheet**, click **View** or **Delete**.
