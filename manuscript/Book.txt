@@ -5,5 +5,7 @@ CheckSheetTemplate.md
 CreateTag.md
 ScopeTag.md
 Skyline.md
+UploadCheckSheet.md
+GenerateCheckSheet.md
 DocFields.md
 

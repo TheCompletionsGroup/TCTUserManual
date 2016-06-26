@@ -10,12 +10,13 @@ The initial view shows the entire project. Depending on the size of the project,
 ![Skyline initial view](images\Skylineall.PNG)  
 For a closer view: 
     - Zoom in and out by scrolling with the mouse
-    - Move to different parts of the skyline by clicking anywhere on the page and dragging with the mouse 
+    - Move to different parts of the skyline by clicking and dragging on the page   
+    
  Each box has the following information:
-    - System identifier (underlined)  
-    - Number of tags completed / Total tags
-    - Number of check sheets completed / Total check sheets
-    - Number of deficiencies (punches) resolved / Total deficiencies (punches) reported  
+    - **System identifier** (underlined)  
+    - Number of **Completed tags** out of **Total tags**
+    - Number of **Completed check sheets**  out of **Total check sheets**
+    - Number of Resolved **Punches** (deficiencies) resolved out of **Total  punches**   
     ![Skyline top level example](images\Skylinetoplevel.PNG)       
 1. To view system details, click on the underlined system identifer to view its progress. This page will open in a new tab.   
 ![Skyline system progress](images\Skyline-subsystemProgress.PNG)  
