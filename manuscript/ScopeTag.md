@@ -1,6 +1,6 @@
 {#ScopeTag}
 #Scope a Tag  
-1. From the **Project Dashboard** Menu, click **Menu > Scoping > System Tag Scoping**.  
+1. From the Menu, click **Menu > Scoping > System Tag Scoping**.  
 ![Menu > Scoping > System Tag Scoping](images\MTagScoping.PNG)  
 1. On the right side, use the search box to find the tag(s).   
 ![Find Tag Using Search Box](images\Scopingtagfilter.PNG)  

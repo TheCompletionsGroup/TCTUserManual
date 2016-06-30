@@ -1,12 +1,11 @@
 {#InitialSetup}
 #Initial Setup 
 The following options are typically a one-time setup at the start of a project.
+- [*Set up a project logo*](#SetupLogo)
 
 {#SetupLogo}
-#Set up a Project Logo 
-
-Project logos appear on the various reports in The Completions Tool. You may add or upate the project logo at any time. 
-
+#Set up a Project Logo  
+Project logos appear on the various reports in The Completions Tool. You may add or upate the project logo at any time.   
 1. From the Menu, click **Menu > Documents**.  
 ![Menu > Documents](images/MDocs.PNG)
 2. Click **Add Document**.  
