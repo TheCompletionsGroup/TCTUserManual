@@ -1,7 +1,8 @@
 {#InitialSetup}
 #Initial Setup 
-The following options are typically a one-time setup at the start of a project.
+The following options are typically a one-time setup at the start of a project.  
 - [*Set up a project logo*](#SetupLogo)
+
 
 {#SetupLogo}
 #Set up a Project Logo  

@@ -9,7 +9,7 @@
 1. To select a tag, click on any text on the row. The text will turn orange. 
     * To deselect a tag, click on it again. The text will turn back to grey.
     * To select all tags, click **Select All**.
-    * To deselect all tags, click **Deselect All** .  
+    * To deselect all tags, click **Deselect All**.  
 1. Drag a selected tag from the Tag list on the right, and drop them onto the appropriate sub system on the left.  
 This action will affect all selected tags.  
 ![Drag and drop tag(s) onto system or sub system](images\tagscopechange1.png) 

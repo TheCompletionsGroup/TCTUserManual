@@ -2,11 +2,11 @@
 #Generate a Check Sheet 
 1. From the Menu, click **Menu > Work Assignments > Tag Check Sheets**  
 ![Menu > Work Assignments > Tag Check Sheets](images\Mtagchecksheetassignments.PNG)   
-1. Use the search Filter to find desired tags.
+1. Use the search Filter to find desired tags.  
 ![Filter Tag Check Sheet Assignments](images\tagcsassignmentsfilter.png)  
 1. To select a tag for check sheet generation, select the check box in the left column.  
 ![Select Tag Check Sheet Assignments](images\tagcsassignmentsselect.png)  
-1. Click **Download All** to download generated check sheets.
+1. Click **Download All** to download generated check sheets.  
 ![Download Generated Check Sheets](images\downloadgeneratedcs.png)  
 
 {#BulkGenerate}
@@ -18,7 +18,6 @@
   - Sub System
   - Discipline
   - Check Sheet Type  
-
-![Bulk Generate Options](images\BulkGenerateOptions.png)
+    ![Bulk Generate Options](images\BulkGenerateOptions.png)
 1. Click **Bulk Generate**
 1. Click **Download All** to download generated check sheets.

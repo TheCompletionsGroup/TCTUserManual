@@ -6,10 +6,10 @@ Skyline is a tool that shows the progress of systems on a timeline, showing each
 
 1. In the **System Skyline** box on the Reports page, click **View**.  
 ![Reports > Skyline](images\Reports-Skyline.PNG)   
-The initial view shows the entire project. Depending on the size of the project, the text size may initially be small.  
-![Skyline initial view](images\Skylineall.PNG)  
-
-    ##For a closer view: 
+The initial view shows the entire project.  
+![Skyline initial view](images\Skylineall.PNG)   
+Depending on the size of the project, the text size may initially be small.   
+   ##For a closer view: 
   - Zoom in and out by scrolling with the mouse
   - Move to different parts of the skyline by clicking and dragging on the page   
     
@@ -18,7 +18,7 @@ The initial view shows the entire project. Depending on the size of the project,
   - Number of **Completed tags** out of **Total tags**
   - Number of **Completed check sheets**  out of **Total check sheets**
   - Number of Resolved **Punches** (deficiencies) resolved out of **Total  punches**   
-![Skyline top level example](images\Skylinetoplevel.PNG)    
+    ![Skyline top level example](images\Skylinetoplevel.PNG)    
    
 1. To view system details, click on the underlined system identifer to view its progress. This page will open in a new tab.   
 ![Skyline system progress](images\Skyline-subsystemProgress.PNG)  
