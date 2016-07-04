@@ -1,7 +1,7 @@
 {#AddSystem}
 #Add a System 
 
-1. From the Menu, click **Menu > Scoping > Systems**  
+1. From the Menu, click **Menu > Scoping > Systems**.    
 ![Menu > Scoping > Systems](images\MSystem.PNG)  
 1. Click **Create System**.  
 ![Create System](images\CreateSystem.png)

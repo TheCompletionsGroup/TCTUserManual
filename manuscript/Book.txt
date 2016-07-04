@@ -4,6 +4,7 @@ Systems.md
 CheckSheetTemplate.md
 CreateTag.md
 ScopeTag.md
+AddCheckSheettoTag.md
 Skyline.md
 UploadCheckSheet.md
 GenerateCheckSheet.md
