@@ -3,7 +3,7 @@
 {#UploadProgressDocument}
 {#UploadAttachment}
 #Upload a Check Sheet, Preservation, Attachment, or Other Progress Document
-Using this tool, you can save any type of progress-related document to the project, including checksheets, preservations, and attachments.  
+You can save any type of progress-related document to the project, including checksheets, preservations, and attachments.  
 1. From the Menu, click **Menu > Progress > Upload**  
 ![Menu > Progress > Upload](images\MPRogressUpload.PNG)   
 
