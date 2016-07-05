@@ -8,7 +8,7 @@
 
 1. In the **Create Work Asssignment** dialog box:
     - Enter a **Tag** number
-    - Use the **Check Sheet** drop-down box to select the appropriate Check Sheet.  
+    - Use the **Check Sheet** drop-down box to select the appropriate Check Sheet  
     ![Create New Work Assignment to Tag](images\CreateWorkAssignment-AddCStoTag.png) 
      
 1. Click **Create**.

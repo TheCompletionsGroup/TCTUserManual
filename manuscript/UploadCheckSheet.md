@@ -4,10 +4,10 @@
 {#UploadAttachment}
 #Upload a Check Sheet, Preservation, Attachment, or Other Progress Document
 You can save any type of progress-related document to the project, including checksheets, preservations, and attachments.  
-1. From the Menu, click **Menu > Progress > Upload**  
+1. From the Menu, click **Menu > Progress > Upload**.   
 ![Menu > Progress > Upload](images\MPRogressUpload.PNG)   
 
-1. To select files, click the **Browse** button, or drag and drop the files from a file folder into the **Drop files here** area on the right.  
+1. To select files, drag and drop the files from a Windows folder into the **Drop files here** box on the right, or click the **Browse** button to navigate to the file.    
 ![Upload Progress Documents](images\UploadProgressDocs.png)  
 
 The **Upload Date** defaults to today's date, but if necessary, you can choose another date.  

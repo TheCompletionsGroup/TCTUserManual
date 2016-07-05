@@ -11,17 +11,20 @@ Skyline is a tool that shows the progress of systems on a timeline, showing each
 
 ##Skyline View
 The initial view shows the entire project.  
-![Skyline initial view](images\Skylineall.PNG)   
+![Skyline initial view](images\Skylineall.PNG)  
 
 Depending on the size of the project, the text size may initially be small. 
 
-###To Zoom in Skyline: 
+###Zooming in Skyline: 
   - Zoom in and out by scrolling with the mouse
   - Move to different parts of the skyline by clicking and dragging on the page   
+  
+###Skyline Timeline
+Skyline organizes systems on a timeline based on the date of mechanical completion as per the construction schedule. 
+  - Green indicates that the system was completed on time
+  - Red indicates that the system that is incomplete or was completed late
     
-###Each Skyline box contains the following information:
-  - Green indicates a completed system
-  - Red indicates an incomplete system 
+###Each Skyline box:
   - **System identifier** (underlined)  
   - Number of **Completed tags** out of **Total tags**
   - Number of **Completed check sheets**  out of **Total check sheets**

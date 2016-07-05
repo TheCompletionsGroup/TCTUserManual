@@ -14,7 +14,7 @@
 
 #Add a Sub System 
 
-1. From the Menu, click **Menu > Scoping > Sub Systems**  
+1. From the Menu, click **Menu > Scoping > Sub Systems**.  
 ![Menu > Scoping > Sub Systems](images\MSubSystem.PNG)  
 
 1. Click **Create Sub System**.  
