@@ -1,7 +1,7 @@
-{#skyline}
+{#Skyline}
 #Access System Skyline  
 
-Skyline is a tool that shows the progress of systems on a timeline, showing each system in a box organized chronologically by the date that the system is scheduled to be handed over to operations. 
+Skyline is a tool that shows the progress of systems on a timeline, showing each system in a box organized chronologically by the date that the system is scheduled to be handed over (generally, to either commissioning or operations). 
 
 1. To access Skyline, from the Menu, click **Menu > Reports**.    
 ![Menu > Reports](images\MReports.PNG)  

@@ -1,6 +1,8 @@
 {#Documents}
 #Set up Documents to Auto-Populate Fields 
-You can create fields to auto-populate documents with appropriate data (ex. System, Subsystem, Tag, etc.).  
+
+You can create fields to auto-populate documents with appropriate data, for example, System, Subsystem, or Tag.  
+
 Fields are indicated with double curly braces, for example, **{{fieldname}}**, without spaces. Recognized fields will be replaced with the appropriate data.
 
 ![Sample fields in a check sheet](images\fieldexamples.png)  

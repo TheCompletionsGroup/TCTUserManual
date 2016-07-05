@@ -1,5 +1,8 @@
 {#AddCStoTag}
 #Add a Check Sheet to a Tag 
+
+To confirm that a tagged piece of equipment has been checked or tested to quality or safety standards, it is associated with a check sheet. The check sheet is a list of checks to be performed and signed off by the appropriate skilled discipline. 
+
 1. To add a check sheet to a tag, from the Menu, click **Menu > Work Assignments > Tag Check Sheets**.    
 ![Menu > Work Assignments > Tag Check Sheets](images\Mtagchecksheetassignments.PNG)  
 

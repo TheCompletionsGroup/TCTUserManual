@@ -1,5 +1,8 @@
 {#GenerateCheckSheet}
 #Generate a Check Sheet 
+
+Once a piece of equipment has been checked or tested, a check sheet can be genereated to confirm that its tag has been signed off, and ready for handover. 
+
 1. To generate specific check sheets, from the Menu, click **Menu > Work Assignments > Tag Check Sheets**.   
 ![Menu > Work Assignments > Tag Check Sheets](images\Mtagchecksheetassignments.PNG)  
 
@@ -14,7 +17,9 @@
 
 {#BulkGenerate}
 #Bulk Generate Check Sheets
-You can also bulk generate all check sheets from a sub system and discipline.  
+
+You can also bulk generate all check sheets for a specific sub system or discipline. This would typically be done near the end of mechanical completion to check all tags for correct installation and testing. 
+
 1. From the Menu, click **Menu > Work Assignments > Bulk Generate**.  
 ![Menu > Work Assignments > Bulk Generate](images\MBulkGenerateCS.PNG)   
 
