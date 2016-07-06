@@ -3,7 +3,7 @@
 
 A check sheet is a list of checks to be performed and signed off by appropriately skilled discplines to ensure that all equipment has been constructed or tested to quality and safety standards.
 
-A check sheet **template** is a generic check sheet that is later autopopulated with specific information, such as system, sub system, and tag number. Generally, each template is used for a certain type of equipment or test, for example, one template may be used to check a type of compressor, whereas another may be used to check pressure transmitters. 
+A check sheet **template** is a generic check sheet that is later autopopulated with specific information (using [*Document Fields*](#Documents)), such as system, sub system, and tag number. Generally, each template is used for a certain type of equipment or test, for example, one template may be used to check a type of compressor, whereas another may be used to check pressure transmitters. 
 
 Note: Only **.docx** (Microsoft Word) files can be used as check sheet templates.
  

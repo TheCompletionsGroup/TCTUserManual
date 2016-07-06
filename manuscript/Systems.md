@@ -16,7 +16,7 @@ A system is a collection of tags that have the same process functionality that c
 
 #Add a Sub System 
 
-A sub system is a smaller collection of tags within a system. A sub system can be mechanically completed in a similar fashion. An example of sub systems within "Instrument Air" could be "Instrument Air Compressor" or "Instrument Air Dryer".
+A sub system is a smaller collection of tags within a system. All tags within a sub system are typically mechanically completed in a similar fashion. An example of sub systems within the "Instrument Air" system might be "Instrument Air Compressor" or "Instrument Air Dryer".
 
 1. From the Menu, click **Menu > Scoping > Sub Systems**.  
 ![Menu > Scoping > Sub Systems](images\MSubSystem.PNG)  

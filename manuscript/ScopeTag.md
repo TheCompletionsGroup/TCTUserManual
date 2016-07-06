@@ -22,7 +22,7 @@ To scope a tag is to assign it to a system or sub system. A tag may only be assi
     **Note: This action will affect all selected tags.**  
     ![Drag and drop tag(s) onto system or sub system](images\tagscopechange1.png)   
 
-A Scoping Results dialog box confirms the change. For example:   
-![Scoping Change Confirmation](images\scopingresults.png)  
+    A Scoping Results dialog box confirms the change. For example:   
+    ![Scoping Change Confirmation](images\scopingresults.png)  
 
 1. Click **OK**.
